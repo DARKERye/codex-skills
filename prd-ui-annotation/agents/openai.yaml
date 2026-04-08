@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD UI Annotation"
+  short_description: "Annotate UI pages from PRDs"
+  default_prompt: "Use $prd-ui-annotation to initialize or update PRD-driven UI requirement badges and tooltips."
